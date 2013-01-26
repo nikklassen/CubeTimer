@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* CubeTimerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CubeTimerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		241EEB9A13BA1C9700F5BE88 /* finalBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 241EEB9913BA1C9700F5BE88 /* finalBeep.wav */; };
+		242841D31394792C000418F2 /* blue_background_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 242841D21394792C000418F2 /* blue_background_03.jpg */; };
+		242904CA1615DE160033CD85 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 242904C91615DE160033CD85 /* Default-568h@2x.png */; };
+		242ADE8A13B903CE00600ECD /* appDefaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 242ADE8913B903CE00600ECD /* appDefaults.plist */; };
+		242ADEFD13B917A600600ECD /* countdownBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 242ADEFC13B917A600600ECD /* countdownBeep.wav */; };
+		242ADFF013B9217000600ECD /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 242ADFEF13B9217000600ECD /* AVFoundation.framework */; };
+		242C5C6013D845E8009A6C6D /* PuzzleTimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 242C5C5E13D845E8009A6C6D /* PuzzleTimeViewController.m */; };
+		242C5C6113D845E8009A6C6D /* PuzzleTimeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 242C5C5F13D845E8009A6C6D /* PuzzleTimeViewController.xib */; };
+		242C5C7213D85747009A6C6D /* TimesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 242C5C7013D85747009A6C6D /* TimesViewController.m */; };
+		245CC0F013BE3ECF00A2435E /* NewPuzzleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 245CC0EE13BE3ECF00A2435E /* NewPuzzleViewController.m */; };
+		245CC0F113BE3ECF00A2435E /* NewPuzzleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 245CC0EF13BE3ECF00A2435E /* NewPuzzleViewController.xib */; };
+		2474863A16B2D88000BBAF6E /* TimesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2474863916B2D88000BBAF6E /* TimesViewController.xib */; };
+		248EBF8613BE56B70098B926 /* TextfieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EBF8513BE56B70098B926 /* TextfieldCell.m */; };
+		248EBF8B13BE58C60098B926 /* TextfieldCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 248EBF8A13BE58C60098B926 /* TextfieldCell.xib */; };
+		24E55ABB13BC9F7F005538D5 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24E55ABA13BC9F7F005538D5 /* MainWindow.xib */; };
+		24E55B9013BCAE81005538D5 /* SettingsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E55B8E13BCAE81005538D5 /* SettingsMasterViewController.m */; };
+		24E55B9113BCAE81005538D5 /* SettingsMasterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24E55B8F13BCAE81005538D5 /* SettingsMasterViewController.xib */; };
+		24E55CA813BD52ED005538D5 /* PuzzleTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E55CA613BD52ED005538D5 /* PuzzleTypeViewController.m */; };
+		24E55CA913BD52ED005538D5 /* PuzzleTypeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24E55CA713BD52ED005538D5 /* PuzzleTypeViewController.xib */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* CubeTimerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* CubeTimerViewController.xib */; };
+		28D7ACF80DDB3853001CB0EB /* CubeTimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* CubeTimerViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* CubeTimerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CubeTimerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CubeTimerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CubeTimerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* CubeTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CubeTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		241EEB9913BA1C9700F5BE88 /* finalBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = finalBeep.wav; sourceTree = "<group>"; };
+		242841D21394792C000418F2 /* blue_background_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blue_background_03.jpg; sourceTree = "<group>"; };
+		242904C91615DE160033CD85 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		242ADE8913B903CE00600ECD /* appDefaults.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = appDefaults.plist; sourceTree = "<group>"; };
+		242ADEFC13B917A600600ECD /* countdownBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = countdownBeep.wav; sourceTree = "<group>"; };
+		242ADFEF13B9217000600ECD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		242C5C5D13D845E8009A6C6D /* PuzzleTimeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PuzzleTimeViewController.h; sourceTree = "<group>"; };
+		242C5C5E13D845E8009A6C6D /* PuzzleTimeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PuzzleTimeViewController.m; sourceTree = "<group>"; };
+		242C5C5F13D845E8009A6C6D /* PuzzleTimeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PuzzleTimeViewController.xib; sourceTree = "<group>"; };
+		242C5C6F13D85747009A6C6D /* TimesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimesViewController.h; sourceTree = "<group>"; };
+		242C5C7013D85747009A6C6D /* TimesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimesViewController.m; sourceTree = "<group>"; };
+		245CC0ED13BE3ECF00A2435E /* NewPuzzleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewPuzzleViewController.h; sourceTree = "<group>"; };
+		245CC0EE13BE3ECF00A2435E /* NewPuzzleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewPuzzleViewController.m; sourceTree = "<group>"; };
+		245CC0EF13BE3ECF00A2435E /* NewPuzzleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewPuzzleViewController.xib; sourceTree = "<group>"; };
+		2474863916B2D88000BBAF6E /* TimesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TimesViewController.xib; sourceTree = "<group>"; };
+		248EBF8413BE56B70098B926 /* TextfieldCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextfieldCell.h; sourceTree = "<group>"; };
+		248EBF8513BE56B70098B926 /* TextfieldCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextfieldCell.m; sourceTree = "<group>"; };
+		248EBF8A13BE58C60098B926 /* TextfieldCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TextfieldCell.xib; sourceTree = "<group>"; };
+		24E55ABA13BC9F7F005538D5 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = Classes/MainWindow.xib; sourceTree = "<group>"; };
+		24E55B8D13BCAE81005538D5 /* SettingsMasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SettingsMasterViewController.h; path = Classes/SettingsMasterViewController.h; sourceTree = "<group>"; };
+		24E55B8E13BCAE81005538D5 /* SettingsMasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SettingsMasterViewController.m; path = Classes/SettingsMasterViewController.m; sourceTree = "<group>"; };
+		24E55B8F13BCAE81005538D5 /* SettingsMasterViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SettingsMasterViewController.xib; path = Classes/SettingsMasterViewController.xib; sourceTree = "<group>"; };
+		24E55CA513BD52ED005538D5 /* PuzzleTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PuzzleTypeViewController.h; sourceTree = "<group>"; };
+		24E55CA613BD52ED005538D5 /* PuzzleTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PuzzleTypeViewController.m; sourceTree = "<group>"; };
+		24E55CA713BD52ED005538D5 /* PuzzleTypeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PuzzleTypeViewController.xib; sourceTree = "<group>"; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* CubeTimerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CubeTimerViewController.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* CubeTimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CubeTimerViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* CubeTimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CubeTimerViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* CubeTimer_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CubeTimer_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* CubeTimer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CubeTimer-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				242ADFF013B9217000600ECD /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* CubeTimerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CubeTimerAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* CubeTimerViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* CubeTimerViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* CubeTimer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		248EBF9613BE5B1D0098B926 /* Additional Classes */ = {
+			isa = PBXGroup;
+			children = (
+				248EBF8413BE56B70098B926 /* TextfieldCell.h */,
+				248EBF8513BE56B70098B926 /* TextfieldCell.m */,
+			);
+			name = "Additional Classes";
+			sourceTree = "<group>";
+		};
+		24E55CA413BD52A7005538D5 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				242C5C5D13D845E8009A6C6D /* PuzzleTimeViewController.h */,
+				242C5C5E13D845E8009A6C6D /* PuzzleTimeViewController.m */,
+				242C5C6F13D85747009A6C6D /* TimesViewController.h */,
+				242C5C7013D85747009A6C6D /* TimesViewController.m */,
+				24E55B8D13BCAE81005538D5 /* SettingsMasterViewController.h */,
+				24E55B8E13BCAE81005538D5 /* SettingsMasterViewController.m */,
+				24E55CA513BD52ED005538D5 /* PuzzleTypeViewController.h */,
+				24E55CA613BD52ED005538D5 /* PuzzleTypeViewController.m */,
+				245CC0ED13BE3ECF00A2435E /* NewPuzzleViewController.h */,
+				245CC0EE13BE3ECF00A2435E /* NewPuzzleViewController.m */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				242904C91615DE160033CD85 /* Default-568h@2x.png */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				24E55CA413BD52A7005538D5 /* Settings */,
+				248EBF9613BE5B1D0098B926 /* Additional Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* CubeTimer_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2474863916B2D88000BBAF6E /* TimesViewController.xib */,
+				248EBF8A13BE58C60098B926 /* TextfieldCell.xib */,
+				245CC0EF13BE3ECF00A2435E /* NewPuzzleViewController.xib */,
+				24E55CA713BD52ED005538D5 /* PuzzleTypeViewController.xib */,
+				24E55ABA13BC9F7F005538D5 /* MainWindow.xib */,
+				24E55B8F13BCAE81005538D5 /* SettingsMasterViewController.xib */,
+				241EEB9913BA1C9700F5BE88 /* finalBeep.wav */,
+				242ADEFC13B917A600600ECD /* countdownBeep.wav */,
+				242841D21394792C000418F2 /* blue_background_03.jpg */,
+				2899E5210DE3E06400AC0155 /* CubeTimerViewController.xib */,
+				8D1107310486CEB800E47090 /* CubeTimer-Info.plist */,
+				242ADE8913B903CE00600ECD /* appDefaults.plist */,
+				242C5C5F13D845E8009A6C6D /* PuzzleTimeViewController.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				242ADFEF13B9217000600ECD /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* CubeTimer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CubeTimer" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CubeTimer;
+			productName = CubeTimer;
+			productReference = 1D6058910D05DD3D006BFB54 /* CubeTimer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CubeTimer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* CubeTimer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2899E5220DE3E06400AC0155 /* CubeTimerViewController.xib in Resources */,
+				242841D31394792C000418F2 /* blue_background_03.jpg in Resources */,
+				242ADE8A13B903CE00600ECD /* appDefaults.plist in Resources */,
+				242ADEFD13B917A600600ECD /* countdownBeep.wav in Resources */,
+				241EEB9A13BA1C9700F5BE88 /* finalBeep.wav in Resources */,
+				24E55ABB13BC9F7F005538D5 /* MainWindow.xib in Resources */,
+				24E55B9113BCAE81005538D5 /* SettingsMasterViewController.xib in Resources */,
+				24E55CA913BD52ED005538D5 /* PuzzleTypeViewController.xib in Resources */,
+				245CC0F113BE3ECF00A2435E /* NewPuzzleViewController.xib in Resources */,
+				248EBF8B13BE58C60098B926 /* TextfieldCell.xib in Resources */,
+				242C5C6113D845E8009A6C6D /* PuzzleTimeViewController.xib in Resources */,
+				242904CA1615DE160033CD85 /* Default-568h@2x.png in Resources */,
+				2474863A16B2D88000BBAF6E /* TimesViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* CubeTimerAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* CubeTimerViewController.m in Sources */,
+				24E55B9013BCAE81005538D5 /* SettingsMasterViewController.m in Sources */,
+				24E55CA813BD52ED005538D5 /* PuzzleTypeViewController.m in Sources */,
+				245CC0F013BE3ECF00A2435E /* NewPuzzleViewController.m in Sources */,
+				248EBF8613BE56B70098B926 /* TextfieldCell.m in Sources */,
+				242C5C6013D845E8009A6C6D /* PuzzleTimeViewController.m in Sources */,
+				242C5C7213D85747009A6C6D /* TimesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CubeTimer_Prefix.pch;
+				INFOPLIST_FILE = "CubeTimer-Info.plist";
+				PRODUCT_NAME = CubeTimer;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CubeTimer_Prefix.pch;
+				INFOPLIST_FILE = "CubeTimer-Info.plist";
+				PRODUCT_NAME = CubeTimer;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CubeTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CubeTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

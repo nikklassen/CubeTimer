@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inspection</key>
+	<false/>
+	<key>puzzleTypes</key>
+	<array>
+		<string>2x2</string>
+		<string>3x3</string>
+		<string>4x4</string>
+		<string>5x5</string>
+		<string>6x6</string>
+		<string>7x7</string>
+		<string>Pyraminx</string>
+		<string>Megaminx</string>
+		<string>Square-1</string>
+	</array>
+	<key>currentPuzzle</key>
+	<string>3x3</string>
+	<key>solveStyles</key>
+	<array>
+		<string>standard</string>
+		<string>OH</string>
+		<string>blind</string>
+		<string>feet</string>
+	</array>
+	<key>currentSolveStyle</key>
+	<string>standard</string>
+	<key>cubeSize</key>
+	<integer>3</integer>
+</dict>
+</plist>

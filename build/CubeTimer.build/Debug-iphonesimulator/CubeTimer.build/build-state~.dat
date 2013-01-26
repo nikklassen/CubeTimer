@@ -1,303 +1,0 @@
-TCubeTimer
-v7
-r0
-t328498987.472755
-cCheck dependencies
-cProcessInfoPlistFile /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/Info.plist CubeTimer-Info.plist
-cCompileXIB /Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib
-cCompileXIB /Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib
-cCpResource build/Debug-iphonesimulator/CubeTimer.app/blue_background_03.jpg blue_background_03.jpg
-cProcessPCH /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch.gch CubeTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/main.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerAppDelegate.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerViewController.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.h
-c000000004DE01F9B00000000000001E3
-t1306533787
-s483
-i<UIKit/UIKit.h>
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m
-c000000004DE01F9B0000000000000A97
-t1306533787
-s2711
-i"CubeTimerAppDelegate.h"
-i"CubeTimerViewController.h"
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h
-c000000004DE4479D0000000000000269
-t1306806173
-s617
-i<UIKit/UIKit.h>
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m
-c000000004DE4479500000000000006C8
-t1306806165
-s1736
-i"CubeTimerViewController.h"
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib
-c000000004DE4427400000000000057D1
-t1306804852
-s22481
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimer_Prefix.pch
-c000000004DE01F9B00000000000000BB
-t1306533787
-s187
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib
-c000000004DE01F9B0000000000004E41
-t1306533787
-s20033
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/blue_background_03.jpg
-c000000004DE4419B0000000000038AE4
-t1306804635
-s232164
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimer.LinkFileList
-c000000004DE4479D00000000000001CD
-t1306806173
-s461
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerAppDelegate.o
-t2
-s0
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerViewController.o
-t2
-s0
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/main.o
-t1306806187
-s6336
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app
-t2
-s0
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app.dSYM
-t2
-s0
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/CubeTimer
-t2
-s0
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/CubeTimerViewController.nib
-t1306806178
-s2058
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/Info.plist
-t1306806173
-s599
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/MainWindow.nib
-t1306806178
-s1127
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/PkgInfo
-t1306806173
-s8
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/blue_background_03.jpg
-t1306806178
-s232164
-
-N/Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m
-c000000004DE01F9C0000000000000163
-t1306533788
-s355
-i<UIKit/UIKit.h>
-
-N/var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch.gch
-t1306806186
-s15453392
-
-NCubeTimer-Info.plist
-c000000004DE01F9B000000000000038D
-t1306533787
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies328498973#328498973#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerAppDelegate.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s328498986.987601
-e328498987.407375
-r0
-xCompileC
-xbuild/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerAppDelegate.o
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:10:
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:12:1: warning: "BOOL" redefined
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:11:1: warning: this is the location of the previous definition
-oIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:10:
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'OFF'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'timerState'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:21: error: expected ';' before '}' token
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: error: expected specifier-qualifier-list before 'OFF'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: data definition has no type or storage class
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: type defaults to 'int' in declaration of 'timerState'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:21: error: expected ')' before 'OFF'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m: In function '-[CubeTimerAppDelegate application:didFinishLaunchingWithOptions:]':
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:21: warning: conflicting types for '-(id)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:236: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: 'OFF' undeclared (first use in this function)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: (Each undeclared identifier is reported only once
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: for each function it appears in.)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: expected ')' before ';' token
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: expected ';' before numeric constant
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:30: warning: control reaches end of non-void function
-lSLF07#2@93"Compile /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498986#328498987#0(3019"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:10:/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:12:1: warning: "BOOL" redefined/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:11:1: warning: this is the location of the previous definitionIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:10:/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'OFF'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'timerState'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:21: error: expected ';' before '}' token/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: error: expected specifier-qualifier-list before 'OFF'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: data definition has no type or storage class/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: type defaults to 'int' in declaration of 'timerState'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:21: error: expected ')' before 'OFF'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m: In function '-[CubeTimerAppDelegate application:didFinishLaunchingWithOptions:]':/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:21: warning: conflicting types for '-(id)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:236: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: 'OFF' undeclared (first use in this function)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: (Each undeclared identifier is reported only once/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: for each function it appears in.)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: expected ')' before ';' token/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:29: error: expected ';' before numeric constant/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m:30: warning: control reaches end of non-void function15(22@16""BOOL" redefined328498987#112#121#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@108""BOOL" redefined in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#12#0#12#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#12#0#12#0#13""*" redefined0(22@47"This is the location of the previous definition328498987#233#152#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@139"This is the location of the previous definition in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#11#0#11#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#11#0#11#0#47"this is the location of the previous definition0(4@46"Expected specifier-qualifier-list before 'OFF'328498987#497#147#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@138"Expected specifier-qualifier-list before 'OFF' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#19"expected * before *0(4@53"Expected specifier-qualifier-list before 'timerState'328498987#644#154#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@145"Expected specifier-qualifier-list before 'timerState' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#19"expected * before *0(4@29"Expected ';' before '}' token328498987#798#130#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@121"Expected ';' before '}' token in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#21#0#21#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#21#0#21#0#19"expected * before *0(4@46"Expected specifier-qualifier-list before 'OFF'328498987#928#147#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@138"Expected specifier-qualifier-list before 'OFF' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#19"expected * before *0(22@44"Data definition has no type or storage class328498987#1075#147#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@136"Data definition has no type or storage class in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#44"data definition has no type or storage class0(22@53"Type defaults to 'int' in declaration of 'timerState'328498987#1222#156#2(7@107"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328498987#18446744073709551615#0#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#10#0#10#0#0"0(13@145"Type defaults to 'int' in declaration of 'timerState' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#42"type defaults to '*' in declaration of '*'0(4@25"Expected ')' before 'OFF'328498987#1378#123#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#21#0#21#0#19"expected * before *0(22@129"Conflicting types for '-(id)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'328498987#1670#229#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#21#0#21#0#25"conflicting types for '*'0(22@133"Previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'328498987#1899#298#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h309419935#236#0#236#0#0"0(4@45"'OFF' undeclared (first use in this function)328498987#2197#143#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#29#0#29#0#43"'*' undeclared (first use in this function)0(4@29"Expected ')' before ';' token328498987#2618#127#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#29#0#29#0#19"expected * before *0(4@36"Expected ';' before numeric constant328498987#2745#134#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#29#0#29#0#19"expected * before *0(22@40"Control reaches end of non-void function328498987#2879#140#0(6@85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m328226587#30#0#30#0#40"control reaches end of non-void function0(0#0#85"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m8610002464#2170"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-generated-files.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-own-target-headers.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-all-target-headers.hmap -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-project-headers.hmap -F/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/include -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources/i386 -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources -include /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch -c /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerAppDelegate.m -o /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerAppDelegate.o1#
-
-CCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerViewController.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s328498987.407487
-e328498987.472481
-r0
-xCompileC
-xbuild/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerViewController.o
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:9:
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:12:1: warning: "BOOL" redefined
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:11:1: warning: this is the location of the previous definition
-oIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:9:
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'OFF'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'timerState'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:21: error: expected ';' before '}' token
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: error: expected specifier-qualifier-list before 'OFF'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: data definition has no type or storage class
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: type defaults to 'int' in declaration of 'timerState'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:13: error: no declaration of property 'timerState' found in the interface
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: In function '-[CubeTimerViewController timerPadTouch:]':
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: 'OFF' undeclared (first use in this function)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: (Each undeclared identifier is reported only once
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: for each function it appears in.)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: In function '-[CubeTimerViewController viewDidLoad]':
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: 'OFF' undeclared (first use in this function)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: expected ')' before ';' token
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: expected ']' before numeric constant
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: 'NSTimer' may not respond to '-alloc'
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: (Messages without a matching method signature
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: will be assumed to return 'id' and accept
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: '...' as arguments.)
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: At top level:
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:76: warning: property 'myTimer' requires method '-myTimer' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:76: warning: property 'myTimer' requires the method 'setMyTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation
-lSLF07#2@96"Compile /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#328498987#0(3795"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:9:/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:12:1: warning: "BOOL" redefined/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:11:1: warning: this is the location of the previous definitionIn file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:9:/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'OFF'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:18: error: expected specifier-qualifier-list before 'timerState'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:21: error: expected ';' before '}' token/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: error: expected specifier-qualifier-list before 'OFF'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: data definition has no type or storage class/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h:26: warning: type defaults to 'int' in declaration of 'timerState'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:13: error: no declaration of property 'timerState' found in the interface/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: In function '-[CubeTimerViewController timerPadTouch:]':/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: 'OFF' undeclared (first use in this function)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: (Each undeclared identifier is reported only once/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:17: error: for each function it appears in.)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: In function '-[CubeTimerViewController viewDidLoad]':/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: 'OFF' undeclared (first use in this function)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: expected ')' before ';' token/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: error: expected ']' before numeric constant/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: 'NSTimer' may not respond to '-alloc'/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: (Messages without a matching method signature/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: will be assumed to return 'id' and accept/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:44: warning: '...' as arguments.)/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m: At top level:/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:76: warning: property 'myTimer' requires method '-myTimer' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m:76: warning: property 'myTimer' requires the method 'setMyTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation18(22@16""BOOL" redefined328498987#114#121#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@108""BOOL" redefined in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#12#0#12#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#12#0#12#0#13""*" redefined0(22@47"This is the location of the previous definition328498987#235#152#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@139"This is the location of the previous definition in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#11#0#11#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#11#0#11#0#47"this is the location of the previous definition0(4@46"Expected specifier-qualifier-list before 'OFF'328498987#501#147#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@138"Expected specifier-qualifier-list before 'OFF' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#19"expected * before *0(4@53"Expected specifier-qualifier-list before 'timerState'328498987#648#154#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@145"Expected specifier-qualifier-list before 'timerState' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#18#0#18#0#19"expected * before *0(4@29"Expected ';' before '}' token328498987#802#130#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@121"Expected ';' before '}' token in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#21#0#21#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#21#0#21#0#19"expected * before *0(4@46"Expected specifier-qualifier-list before 'OFF'328498987#932#147#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@138"Expected specifier-qualifier-list before 'OFF' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#19"expected * before *0(22@44"Data definition has no type or storage class328498987#1079#147#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@136"Data definition has no type or storage class in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#44"data definition has no type or storage class0(22@53"Type defaults to 'int' in declaration of 'timerState'328498987#1226#156#2(7@110"In file included from /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#9#0#9#0#0"0(13@145"Type defaults to 'int' in declaration of 'timerState' in /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498987#18446744073709551615#0#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#0"0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.h328498973#26#0#26#0#42"type defaults to '*' in declaration of '*'0(4@62"No declaration of property 'timerState' found in the interface328498987#1382#163#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#13#0#13#0#0"0(4@45"'OFF' undeclared (first use in this function)328498987#1692#146#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#17#0#17#0#43"'*' undeclared (first use in this function)0(4@45"'OFF' undeclared (first use in this function)328498987#2266#146#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#44#0#44#0#43"'*' undeclared (first use in this function)0(4@29"Expected ')' before ';' token328498987#2412#130#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#44#0#44#0#19"expected * before *0(4@36"Expected ']' before numeric constant328498987#2542#137#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#44#0#44#0#19"expected * before *0(22@37"'NSTimer' may not respond to '-alloc'328498987#2679#140#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#44#0#44#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328498987#2819#148#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#44#0#44#0#0"0(23@13"At top level:328498987#3234#104#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#0#0#0#0#0"0(22@122"Property 'myTimer' requires method '-myTimer' to be defined - use @synthesize, @dynamic or provide a method implementation328498987#3338#225#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#76#0#76#0#0"0(22@129"Property 'myTimer' requires the method 'setMyTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation328498987#3563#232#0(6@88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m328498965#76#0#76#0#0"0(0#0#88"/Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m8612980992#2176"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-generated-files.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-own-target-headers.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-all-target-headers.hmap -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-project-headers.hmap -F/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/include -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources/i386 -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources -include /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch -c /Users/nik/Documents/Programming/Objective-C/CubeTimer/Classes/CubeTimerViewController.m -o /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/CubeTimerViewController.o1#
-
-CCompileC build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/main.o /Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s328498986.986225
-e328498987.430084
-r1
-xCompileC
-xbuild/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/main.o
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m328498986#328498987#0(0"0(0#0#61"/Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m8612226624#2130"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-generated-files.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-own-target-headers.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-all-target-headers.hmap -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-project-headers.hmap -F/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/include -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources/i386 -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources -include /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch -c /Users/nik/Documents/Programming/Objective-C/CubeTimer/main.m -o /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib
-s328498973.890278
-e328498978.832090
-r1
-xCompileXIB
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib
-o2011-05-30 21:42:58.579 Interface Builder Cocoa Touch Tool[1830:903] CFPreferences: user home directory at file://localhost/Users/nik/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@38"CompileXIB CubeTimerViewController.xib328498973#328498978#0(320"2011-05-30 21:42:58.579 Interface Builder Cocoa Touch Tool[1830:903] CFPreferences: user home directory at file://localhost/Users/nik/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#82"/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib8617242240#646"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/CubeTimerViewController.nib /Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib
-s328498973.845377
-e328498978.786547
-r1
-xCompileXIB
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib
-o2011-05-30 21:42:58.607 Interface Builder Cocoa Touch Tool[1829:1903] CFPreferences: user home directory at file://localhost/Users/nik/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF07#2@25"CompileXIB MainWindow.xib328498973#328498978#0(237"2011-05-30 21:42:58.607 Interface Builder Cocoa Touch Tool[1829:1903] CFPreferences: user home directory at file://localhost/Users/nik/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#69"/Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib8617531200#620"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/MainWindow.nib /Users/nik/Documents/Programming/Objective-C/CubeTimer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/CubeTimer.app/blue_background_03.jpg blue_background_03.jpg
-s328498978.786769
-e328498978.878510
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/CubeTimer.app/blue_background_03.jpg
-xblue_background_03.jpg
-lSLF07#2@27"Copy blue_background_03.jpg328498978#328498978#0(0"0(0#0#77"/Users/nik/Documents/Programming/Objective-C/CubeTimer/blue_background_03.jpg8614467200#530"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nik/Documents/Programming/Objective-C/CubeTimer/blue_background_03.jpg /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app0#
-
-CGenerateDSYMFile /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app.dSYM /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/CubeTimer
-r0
-
-CLd /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/CubeTimer normal i386
-r0
-
-CProcessInfoPlistFile /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/Info.plist CubeTimer-Info.plist
-s328498973.678009
-e328498973.845264
-r1
-xProcessInfoPlistFile
-x/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/Info.plist
-xCubeTimer-Info.plist
-lSLF07#2@28"Process CubeTimer-Info.plist328498973#328498973#0(0"0(0#0#75"/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimer-Info.plist28429393562239044#533"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CubeTimer-Info.plist -genpkginfo /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app/Info.plist0#
-
-CProcessPCH /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch.gch CubeTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s328498978.878736
-e328498986.986058
-r1
-xProcessPCH
-x/var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch.gch
-xCubeTimer_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile CubeTimer_Prefix.pch328498978#328498986#0(0"0(0#0#75"/Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimer_Prefix.pch8618060320#2004"    cd /Users/nik/Documents/Programming/Objective-C/CubeTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-generated-files.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-own-target-headers.hmap -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-all-target-headers.hmap -iquote /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/CubeTimer-project-headers.hmap -F/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/include -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources/i386 -I/Users/nik/Documents/Programming/Objective-C/CubeTimer/build/CubeTimer.build/Debug-iphonesimulator/CubeTimer.build/DerivedSources -c /Users/nik/Documents/Programming/Objective-C/CubeTimer/CubeTimer_Prefix.pch -o /var/folders/Z4/Z4nYUd7xHeysn4O7-InuHU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CubeTimer_Prefix-fyjbbxucwyeiwyfruiielgmnxarq/CubeTimer_Prefix.pch.gch0#
-
-CTouch /Users/nik/Documents/Programming/Objective-C/CubeTimer/build/Debug-iphonesimulator/CubeTimer.app
-r0
-
